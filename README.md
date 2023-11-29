@@ -2,9 +2,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Sayuni Ellepola!
 
-As a caffeinated inhabitant of the code cosmos, I traverse the realms of SLIIT University (Sri Lanka) currently navigating the exciting journey of academia, being enthusiastic about technology and its applications in Data Science. 
+As a passionate explorer in the field of information technology at SLIIT, I embarked on a stimulating adventure in the domains of creativity and code. I navigate the exciting technological paths while fervently expanding my academic horizons, focusing on data science and its innovative applications.
 
-Enchanted by the charisma of technology, my heart beats to the rhythm of algorithms and the dance of artificial intelligence.
+Swift learner, seeking paths untried,
+Curiosity's spark, my knowledge's guide.....
 
 ## 📚 Academic Background
 - **University:** SLIIT University (Sri Lanka)
@@ -23,6 +24,9 @@ Enchanted by the charisma of technology, my heart beats to the rhythm of algorit
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
+<a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a> 
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
@@ -53,8 +57,6 @@ I'm on a continuous learning path, exploring natural language processing to deep
 
 ## 🔥 GitHub Streak & stats <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=transparent)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&theme=synthwave&show_icons=true)
-
 ![SayuniEllepola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&show_icons=true&theme=transparent)
 
 ## 📫 Let's Connect
