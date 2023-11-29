@@ -55,8 +55,7 @@ I'm on a continuous learning path, exploring natural language processing to deep
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=transparent)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&theme=synthwave&show_icons=true)
 
-
-
+![SayuniEllepola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&show_icons=true&theme=transparent)
 
 ## 📫 Let's Connect
  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola)
