@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SayuniEllepola
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Sayuni Ellepola!
@@ -58,12 +51,11 @@ I'm on a continuous learning path, exploring natural language processing to deep
 - Implemented a sentiment analysis system for my machine learning class, achieving an accuracy of 85%.
 - Contributed to an open-source project for developing a chatbot using Python and TensorFlow.
 
-## 🔥 GitHub Streak & stats <br> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=dark&card_width=467)](https://git.io/streak-stats) 
+## 🔥 GitHub Streak & stats <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=transparent)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&theme=synthwave&show_icons=true)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=transparent)](https://git.io/streak-stats)
 
 
 ## 📫 Let's Connect
