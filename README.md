@@ -16,24 +16,50 @@ Curiosity's spark, my knowledge's guide.....
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+#Programming Languages
+[<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+
+<a name="tools"></a>
+
+##Development Tools
+[<img src="https://img.shields.io/badge/Dev_C++-007ACC?logo=devcpp&logoColor=white" alt="Dev C++ logo" title="Dev C++" height="25" />
+][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />
+][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code logo" title="VS Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+
+<a name="database"></a>
+
+#Database Management
+[<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SSMS logo" title="SQL Server Management Studio" height="25" />][tech_tools_anchor]
+&nbsp;
+
+
+
 
 <a name="learning-next"></a>
 
@@ -62,9 +88,9 @@ I'm on a continuous learning path, exploring natural language processing to deep
 
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
- [<img src="https://img.shields.io/badge/Twitter-0077B5?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />]
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />]
 
- [<img src="https://img.shields.io/badge/Instagram-0077B5?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />]
+ [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />]
 
 
 I'm passionate about leveraging technology to solve real-world problems and open to connecting with like-minded individuals. Feel free to explore my repositories and reach out for any collaborations or discussions! 🚀
