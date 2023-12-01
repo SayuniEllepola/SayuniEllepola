@@ -4,8 +4,7 @@
 
 As a passionate explorer in the field of information technology at SLIIT, I embarked on a stimulating adventure in the domains of creativity and code. I navigate the exciting technological paths while fervently expanding my academic horizons, focusing on data science and its innovative applications.
 
-Swift learner, seeking paths untried,
-Curiosity's spark, my knowledge's guide.....
+A swift learner, embracing challenges to cultivate a future fueled by technology and creativity
 
 ## 📚 Academic Background
 - **University:** SLIIT University (Sri Lanka)
@@ -65,24 +64,12 @@ Curiosity's spark, my knowledge's guide.....
 
 <a name="learning-next"></a>
 
-## 🔧 Skills
-
- <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="50" height="50" rx="6" fill="#394AAB"/>
-<path d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z" fill="white"/>
-</svg>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="60"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
-</p>
-
-
-
 ## 🌱 Learning Journey
-I'm on a continuous learning path, exploring natural language processing to deepen my understanding of how machines can understand and generate human-like text. Always eager to embrace new challenges and expand my skill set.
+Embarking on an exciting IT journey at SLIIT, merging a love for elegant design with a fervor for tackling complex problems being committed to continuous learning and adapting swiftly to emerging technologies.
 
 ## 💻 Projects
-- Implemented a sentiment analysis system for my machine learning class, achieving an accuracy of 85%.
-- Contributed to an open-source project for developing a chatbot using Python and TensorFlow.
+- Contributed to a dynamic web project using HTML, CSS, JavaScript, and PHP, seamlessly integrating XAMPP for local server deployment and leveraging SQL Server for efficient database management.
+- Played a key role in crafting a robust web application, employing HTML, CSS, JavaScript, and Java with servlets,enhancing the MVC architecture.Implemented and optimized MySQL databases, coupled with Apache Tomcat server, for a powerful and efficient user experience
 
 ## 🔥 GitHub Streak & stats <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayuniEllepola&theme=transparent)](https://git.io/streak-stats)
@@ -90,14 +77,15 @@ I'm on a continuous learning path, exploring natural language processing to deep
 
 ## 📫 Let's Connect
 
+Let's connect for more projects, explore new horizons, and create innovative solutions together. Feel free to reach out for any opportunities or collaborations.
+
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
- [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />]
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />]
+ [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
-
-I'm passionate about leveraging technology to solve real-world problems and open to connecting with like-minded individuals. Feel free to explore my repositories and reach out for any collaborations or discussions! 🚀
+I'm always eager to embark on new ventures and learn from diverse experiences. 🚀
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
