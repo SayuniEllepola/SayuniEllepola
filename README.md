@@ -12,7 +12,7 @@ Curiosity's spark, my knowledge's guide.....
 - **Major:** Data Science
 - **Year:** Junior (Expected Graduation: 2026)
 
-## 🛠  Technologies and tools
+## 🔧 Skills
 
 <a name="learning-now"></a>
 
@@ -29,10 +29,15 @@ Curiosity's spark, my knowledge's guide.....
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 
+
 <a name="tools"></a>
+
+## 🛠  Technologies and tools
 
 ##Development Tools
 [<img src="https://img.shields.io/badge/Dev_C++-007ACC?logo=devcpp&logoColor=white" alt="Dev C++ logo" title="Dev C++" height="25" />
@@ -58,17 +63,12 @@ Curiosity's spark, my knowledge's guide.....
 [<img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SSMS logo" title="SQL Server Management Studio" height="25" />][tech_tools_anchor]
 &nbsp;
 
-
-
-
 <a name="learning-next"></a>
-
-
 
 ## 🔧 Skills
  
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="60"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
 </p>
 
 
