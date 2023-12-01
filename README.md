@@ -18,6 +18,8 @@ Curiosity's spark, my knowledge's guide.....
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Javascript-0077B5?logo=javascript&logoColor=white" alt="Javascript logo" title="Javascript" height="25" />]
+&nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
@@ -57,9 +59,12 @@ I'm on a continuous learning path, exploring natural language processing to deep
 ![SayuniEllepola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayuniEllepola&show_icons=true&theme=transparent)
 
 ## 📫 Let's Connect
- [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola)
 
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
+
+ [<img src="https://img.shields.io/badge/Twitter-0077B5?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />]
+
+ [<img src="https://img.shields.io/badge/Instagram-0077B5?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />]
 
 
 I'm passionate about leveraging technology to solve real-world problems and open to connecting with like-minded individuals. Feel free to explore my repositories and reach out for any collaborations or discussions! 🚀
