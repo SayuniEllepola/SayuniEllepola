@@ -1,6 +1,6 @@
 
 
-## <picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 75px></picture> Hello, I'm Sayuni Ellepola!
+## <picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 85px></picture> Hello, I'm Sayuni Ellepola!
 
 As a passionate explorer in the field of information technology at SLIIT, I embarked on a stimulating adventure in the domains of creativity and code. I navigate the exciting technological paths while fervently expanding my academic horizons, focusing on data science and its innovative applications.
 
