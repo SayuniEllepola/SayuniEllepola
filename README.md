@@ -59,6 +59,10 @@ I'm on a continuous learning path, exploring natural language processing to deep
 ## 📫 Let's Connect
  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sayuni-ellepola)
 
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />]
+ (https://www.linkedin.com/in/sayuni-ellepola)
+
+
 I'm passionate about leveraging technology to solve real-world problems and open to connecting with like-minded individuals. Feel free to explore my repositories and reach out for any collaborations or discussions! 🚀
 
 [tech_tools_anchor]: #bonjour--
