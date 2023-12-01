@@ -1,15 +1,15 @@
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Sayuni Ellepola!
+## <picture><img src = "[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif]" width = 50px></picture> Hello, I'm Sayuni Ellepola!
 
 As a passionate explorer in the field of information technology at SLIIT, I embarked on a stimulating adventure in the domains of creativity and code. I navigate the exciting technological paths while fervently expanding my academic horizons, focusing on data science and its innovative applications.
 
 A swift learner, embracing challenges to cultivate a future fueled by technology and creativity
 
 ## 📚 Academic Background
-- **University : ** SLIIT University (Sri Lanka)
-- **Major : ** Data Science
-- **Academic Year : ** Year 2
+- University :  SLIIT University (Sri Lanka)
+- Major :  Data Science
+- Academic Year :  Year 2
 
 ## 🔧 Skills
 
