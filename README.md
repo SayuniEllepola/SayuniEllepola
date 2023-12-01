@@ -85,6 +85,10 @@ Let's connect for more projects, explore new horizons, and create innovative sol
 
  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
+ [<img src=" http://i.imgur.com/tXSoThF.pngTwitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
+
+
+
 I'm always eager to embark on new ventures and learn from diverse experiences. 🚀
 
 [tech_tools_anchor]: #bonjour--
