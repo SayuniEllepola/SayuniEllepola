@@ -1,17 +1,16 @@
 
 
-## <picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 85px></picture> Hello, I'm Sayuni Ellepola!
+## <picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 100px></picture> Hello, I'm Sayuni Ellepola!
 
-As a passionate explorer in the field of information technology at SLIIT, I embarked on a stimulating adventure in the domains of creativity and code. I navigate the exciting technological paths while fervently expanding my academic horizons, focusing on data science and its innovative applications.
-
-A swift learner, embracing challenges to cultivate a future fueled by technology and creativity
+As a passionate explorer within the dynamic realm of information technology at SLIIT, I have embarked on a stimulating adventure where creativity seamlessly intertwines with code. Navigating the thrilling avenues of technology, I immerse myself in a captivating journey, relentlessly pushing the boundaries of innovation. 
+My academic compass points toward the expansive landscapes of data science, where every challenge becomes an opportunity to craft imaginative solutions and redefine the possibilities within the digital realm.
 
 ## 📚 Academic Background
 - University :  SLIIT University (Sri Lanka)
 - Major :  Data Science
 - Academic Year :  Year 2
 
-## 🔧 Skills
+## 🔧 👩🏼‍💻Skills
 
 <a name="learning-now"></a>
 
@@ -38,7 +37,7 @@ A swift learner, embracing challenges to cultivate a future fueled by technology
 
 ## 🛠  Technologies and tools
 
-##Development Tools
+#Development Tools
 [<img src="https://img.shields.io/badge/Dev_C++-007ACC?logo=devcpp&logoColor=white" alt="Dev C++ logo" title="Dev C++" height="25" />
 ][tech_tools_anchor]
 &nbsp;
