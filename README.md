@@ -3,6 +3,7 @@
 ## <picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 100px></picture> Hello, I'm Sayuni Ellepola!
 
 As a passionate explorer within the dynamic realm of information technology at SLIIT, I have embarked on a stimulating adventure where creativity seamlessly intertwines with code. Navigating the thrilling avenues of technology, I immerse myself in a captivating journey, relentlessly pushing the boundaries of innovation. 
+
 My academic compass points toward the expansive landscapes of data science, where every challenge becomes an opportunity to craft imaginative solutions and redefine the possibilities within the digital realm.
 
 ## 📚 Academic Background
@@ -10,7 +11,7 @@ My academic compass points toward the expansive landscapes of data science, wher
 - Major :  Data Science
 - Academic Year :  Year 2
 
-## 🔧 👩🏼‍💻Skills
+## 👩🏼‍💻Skills
 
 <a name="learning-now"></a>
 
