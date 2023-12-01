@@ -83,6 +83,8 @@ Let's connect for more projects, explore new horizons, and create innovative sol
 
  [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
+ [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
+
  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />](https://www.linkedin.com/in/sayuni-ellepola) 
 
 
