@@ -7,9 +7,9 @@ As a passionate explorer in the field of information technology at SLIIT, I emb
 A swift learner, embracing challenges to cultivate a future fueled by technology and creativity
 
 ## 📚 Academic Background
-- **University:** SLIIT University (Sri Lanka)
-- **Major:** Data Science
-- **Year:** Junior (Expected Graduation: 2026)
+- **University : ** SLIIT University (Sri Lanka)
+- **Major : ** Data Science
+- **Academic Year : ** Year 2
 
 ## 🔧 Skills
 
